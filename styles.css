@@ -1,33 +1,104 @@
-html{
-  background-image: url();
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  color: black;
-}
+body{
+      background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/03/Comics-superman-wallpaper-Full-HD.jpg");
+      background-attachment: fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+  }
 
-h1,
+h1{
+  text-align: center;
+  color: white;
+}
 h2{
   text-align: center;
+  font-size: 14px;
+  color: white;
 }
 
 .nav-links{
-  width: 800px;
+  width: 1200px;
   margin: 0 auto;
   text-align: center;
   padding: 0;
-  list-style-type: none;
+  list-style-type:none;
 }
 
 .nav-link{
-  border: 2px solid red;
+  border: 2px solid white;
   display: inline-block;
-  width: 60px;
+  width: 200px;
   text-align: center;
 }
 
 .nav-link a{
   text-decoration: none;
-  color: red;
+  color: white;
+}
+
+.main{
+  font-size: 25px;
+  color: gold;
+  text-shadow: black 0 -2px;
+  width: auto;
+  text-align: center;
+  height: 200px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.myButtonLink {
+	display: block;
+	width: 500px;
+	height: 500px;
+	background: url('images/superman_clark_kent.jpg') bottom;
+	text-indent: -99999px;
+}
+.myButtonLink:hover {
+	background-position: 0 0;
+}
+
+#1 {
+float: left;
+width: 50%;
+}
+
+#2 {
+float: left;
+width: 50%;
+}
+
+/* I am struggling with the footer.  After hours of trying to figure it
+out, I finally got the footer at the bottom of the page. I can't figure out how
+to change the size of the footer.  I can't figure out how to get the footer to
+scroll all the way to the left of the webpage.
+*/
+
+.footer {
+  position: fixed;
+  text-align: center;
+  font-size: 50px;
+  color: yellow;
+  bottom: 0px;
+  width: 100px;
+  height: 50px;
+}
+
+.footer {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  text-shadow: black 0 -5px;
+}
+@keyframes slidein{
+  from {
+    margin-left: 100;
+    width: 300%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
