@@ -13,13 +13,13 @@ The instructions we were given are provided below:
   6. Practice CSS - Add some styles. Create a stylesheet with some selectors and rules.
   7. Add at least one image to your awesomely ugly site.
   8. Deploy your site:
-    a. Create a repo on github under your account.
-    b. From the terminal, do the following:
-      1.) git init
-      2.) git add index.html styles.css
-      3.) git commit -m "YOUR COMMIT MESSAGE HERE"
-      4.) git remote add origin SSH-GIT-REPO-ADDRESS-HERE
-      5.) git push -u origin master
-      6.) git checkout -b gh-pages
-      7.) git push -u origin gh-pages
+  	- Create a repo on github under your account.
+    - From the terminal, do the following:
+      - git init
+      - git add index.html styles.css
+      - git commit -m "YOUR COMMIT MESSAGE HERE"
+      - git remote add origin SSH-GIT-REPO-ADDRESS-HERE
+      - git push -u origin master
+      - git checkout -b gh-pages
+      - git push -u origin gh-pages
   9. Submit the http address found in your browser's address bar for the master branch.
