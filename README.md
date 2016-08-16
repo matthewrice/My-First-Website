@@ -1,5 +1,5 @@
 # My First Website
-
+### http://matthewrice.github.io/My-First-Website/
 ### Unit: 1.1 Introduction to HTML and CSS
 ### Week: 1
 ### Tools: HTML, CSS
@@ -29,5 +29,3 @@ The instructions we were given are provided below:
   9. Submit the http address found in your browser's address bar for the master branch.
 
 Since I love Superman and all things superheroes, I made a website about Superman. 
-
-Check it out! http://matthewrice.github.io/My-First-Website/
