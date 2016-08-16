@@ -1,12 +1,14 @@
 # My First Website
 ### http://matthewrice.github.io/My-First-Website/
-### Unit:   1.1 Introduction to HTML and CSS
-### Week:   1
-### Tools:  HTML, CSS
+### Unit: 1.1 Introduction to HTML and CSS
+### Week: 1
+### Tools: HTML, CSS
 
 Before I started The Iron Yard, I was assigned pre-work that introduced me to HTML, CSS, JavaScript, Git, and GitHub.  
 
-On Day 1 at The Iron Yard, we were tasked with creating an awesomely ugly website. The purpose of this assignment was to assess my skill level as a Front End Engineer.
+On Day 1 at The Iron Yard, we were tasked with creating an awesomely ugly website. Since I love Superman and all things superheroes, I made a website about Superman. 
+
+The purpose of this assignment was to assess my skill level as a Front End Engineer.
 
 The instructions we were given are provided below:
   1. In the terminal, create a code directory in your Documents directory.
@@ -27,5 +29,3 @@ The instructions we were given are provided below:
       - git checkout -b gh-pages
       - git push -u origin gh-pages
   9. Submit the http address found in your browser's address bar for the master branch.
-
-Since I love Superman and all things superheroes, I made a website about Superman. 
