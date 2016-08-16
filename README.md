@@ -1,5 +1,7 @@
 # 1.1 Introduction to HTML and CSS
 
+## Tools: HTML, CSS
+
 Before I started The Iron Yard, I was assigned pre-work that introduced me to HTML, CSS, JavaScript, Git, and GitHub.  
 
 On Day 1 at The Iron Yard, we were tasked with creating an awesomely ugly website. The purpose of this assignment was to assess my skill level as a Front End Engineer.
