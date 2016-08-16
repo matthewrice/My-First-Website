@@ -1,8 +1,8 @@
-# 1.1 Introduction to HTML and CSS
+# My First Website
 
+## Unit: 1.1 Introduction to HTML and CSS
 ## Week 1
-
-### Tools: HTML, CSS
+## Tools: HTML, CSS
 
 Before I started The Iron Yard, I was assigned pre-work that introduced me to HTML, CSS, JavaScript, Git, and GitHub.  
 
@@ -30,4 +30,4 @@ The instructions we were given are provided below:
 
 Since I love Superman and all things superheroes, I made a website about Superman. 
 
-Check it out! - http://matthewrice.github.io/My-First-Website/
+Check it out! http://matthewrice.github.io/My-First-Website/
