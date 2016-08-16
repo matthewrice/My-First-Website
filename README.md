@@ -1,6 +1,6 @@
 # My First Website
 ### http://matthewrice.github.io/My-First-Website/
-### Unit: 1.1 Introduction to HTML and CSS
+### Unit: Introduction to HTML and CSS
 ### Week: 1
 ### Tools: HTML, CSS
 
